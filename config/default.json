@@ -1,0 +1,9 @@
+{ 
+    "server" : {
+        "port" : 3001
+    },
+    "database" : {
+        "user" : "brooklyn",
+        "password" : "Chin3bi1"
+    }
+}
